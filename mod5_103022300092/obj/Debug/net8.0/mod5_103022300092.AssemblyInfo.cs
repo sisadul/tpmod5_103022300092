@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mod5_103022300092")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31f068e6ba6d6e4bcc9d021a8eb9b261277b285b")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af15da1d78111c56be13156ce1e731ffe376892e")]
+>>>>>>> generic-class
 [assembly: System.Reflection.AssemblyProductAttribute("mod5_103022300092")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mod5_103022300092")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
